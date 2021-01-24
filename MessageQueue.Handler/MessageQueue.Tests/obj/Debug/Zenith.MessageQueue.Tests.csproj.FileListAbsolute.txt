@@ -1,0 +1,12 @@
+E:\Repo\ZenithMessageQueueHandler\Zenith.MessageQueue.Handler\Zenith.MessageQueue.Tests\bin\Debug\Zenith.MessageQueue.Tests.dll
+E:\Repo\ZenithMessageQueueHandler\Zenith.MessageQueue.Handler\Zenith.MessageQueue.Tests\bin\Debug\Zenith.MessageQueue.Tests.pdb
+E:\Repo\ZenithMessageQueueHandler\Zenith.MessageQueue.Handler\Zenith.MessageQueue.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Repo\ZenithMessageQueueHandler\Zenith.MessageQueue.Handler\Zenith.MessageQueue.Tests\bin\Debug\Zenith.MessageQueue.Handler.dll
+E:\Repo\ZenithMessageQueueHandler\Zenith.MessageQueue.Handler\Zenith.MessageQueue.Tests\bin\Debug\Zenith.MessageQueue.Interfaces.dll
+E:\Repo\ZenithMessageQueueHandler\Zenith.MessageQueue.Handler\Zenith.MessageQueue.Tests\bin\Debug\RabbitMQ.Client.dll
+E:\Repo\ZenithMessageQueueHandler\Zenith.MessageQueue.Handler\Zenith.MessageQueue.Tests\bin\Debug\Zenith.MessageQueue.Handler.pdb
+E:\Repo\ZenithMessageQueueHandler\Zenith.MessageQueue.Handler\Zenith.MessageQueue.Tests\bin\Debug\Zenith.MessageQueue.Interfaces.pdb
+E:\Repo\ZenithMessageQueueHandler\Zenith.MessageQueue.Handler\Zenith.MessageQueue.Tests\bin\Debug\RabbitMQ.Client.xml
+E:\Repo\ZenithMessageQueueHandler\Zenith.MessageQueue.Handler\Zenith.MessageQueue.Tests\obj\Debug\Zenith.MessageQueue.Tests.csprojResolveAssemblyReference.cache
+E:\Repo\ZenithMessageQueueHandler\Zenith.MessageQueue.Handler\Zenith.MessageQueue.Tests\obj\Debug\Zenith.MessageQueue.Tests.dll
+E:\Repo\ZenithMessageQueueHandler\Zenith.MessageQueue.Handler\Zenith.MessageQueue.Tests\obj\Debug\Zenith.MessageQueue.Tests.pdb

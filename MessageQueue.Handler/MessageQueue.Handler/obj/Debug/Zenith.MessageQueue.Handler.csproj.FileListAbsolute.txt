@@ -1,0 +1,10 @@
+E:\Repo\ZenithMessageQueueHandler\Zenith.MessageQueue.Handler\Zenith.MessageQueue.Handler\bin\Debug\Zenith.MessageQueue.Handler.dll.config
+E:\Repo\ZenithMessageQueueHandler\Zenith.MessageQueue.Handler\Zenith.MessageQueue.Handler\bin\Debug\Zenith.MessageQueue.Handler.dll
+E:\Repo\ZenithMessageQueueHandler\Zenith.MessageQueue.Handler\Zenith.MessageQueue.Handler\bin\Debug\Zenith.MessageQueue.Handler.pdb
+E:\Repo\ZenithMessageQueueHandler\Zenith.MessageQueue.Handler\Zenith.MessageQueue.Handler\bin\Debug\RabbitMQ.Client.dll
+E:\Repo\ZenithMessageQueueHandler\Zenith.MessageQueue.Handler\Zenith.MessageQueue.Handler\bin\Debug\Zenith.MessageQueue.Interfaces.dll
+E:\Repo\ZenithMessageQueueHandler\Zenith.MessageQueue.Handler\Zenith.MessageQueue.Handler\bin\Debug\Zenith.MessageQueue.Interfaces.pdb
+E:\Repo\ZenithMessageQueueHandler\Zenith.MessageQueue.Handler\Zenith.MessageQueue.Handler\bin\Debug\RabbitMQ.Client.xml
+E:\Repo\ZenithMessageQueueHandler\Zenith.MessageQueue.Handler\Zenith.MessageQueue.Handler\obj\Debug\Zenith.MessageQueue.Handler.csprojResolveAssemblyReference.cache
+E:\Repo\ZenithMessageQueueHandler\Zenith.MessageQueue.Handler\Zenith.MessageQueue.Handler\obj\Debug\Zenith.MessageQueue.Handler.dll
+E:\Repo\ZenithMessageQueueHandler\Zenith.MessageQueue.Handler\Zenith.MessageQueue.Handler\obj\Debug\Zenith.MessageQueue.Handler.pdb

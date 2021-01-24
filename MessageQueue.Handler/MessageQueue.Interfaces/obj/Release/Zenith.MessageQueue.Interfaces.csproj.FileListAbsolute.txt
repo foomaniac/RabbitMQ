@@ -1,0 +1,4 @@
+E:\Repo\ZenithMessageQueueHandler\Zenith.MessageQueue.Handler\Zenith.MessageQueue.Interfaces\bin\Release\Zenith.MessageQueue.Interfaces.dll
+E:\Repo\ZenithMessageQueueHandler\Zenith.MessageQueue.Handler\Zenith.MessageQueue.Interfaces\bin\Release\Zenith.MessageQueue.Interfaces.pdb
+E:\Repo\ZenithMessageQueueHandler\Zenith.MessageQueue.Handler\Zenith.MessageQueue.Interfaces\obj\Release\Zenith.MessageQueue.Interfaces.dll
+E:\Repo\ZenithMessageQueueHandler\Zenith.MessageQueue.Handler\Zenith.MessageQueue.Interfaces\obj\Release\Zenith.MessageQueue.Interfaces.pdb
